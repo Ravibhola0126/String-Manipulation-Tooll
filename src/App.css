@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+.main{
+  text-align: center;
+  color: blue;
+  font-size: 25px;
+}
+
+#skipCount{
+  font-size: 25px;
+  color: blue;
+  text-align: center;
+  width: 55px;
+}
+
+#inputString{
+  font-size: 20px;
+  color: blue;
+}
+
+.btn{
+  border-radius: 7px;
+  font-size: 25px;
+  color: blue;
+  width: 70px;
+  font-weight: bold;
+}
+h2{
+  text-decoration: underline;
+}
